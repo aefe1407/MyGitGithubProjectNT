@@ -20,6 +20,7 @@ public class AtmProject {
         //ahm3
         System.out.println();
 	  //localde değişiklik yaptım.
+	  //remoteda değişiklik yaptım.
 
     }
 }
